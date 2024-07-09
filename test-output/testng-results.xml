@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-09T15:44:00 IST" name="Default suite" finished-at="2024-07-09T15:44:05 IST" duration-ms="5152">
+  <suite started-at="2024-07-09T16:32:24 IST" name="Default suite" finished-at="2024-07-09T16:32:33 IST" duration-ms="8318">
     <groups>
     </groups>
-    <test started-at="2024-07-09T15:44:00 IST" name="Default test" finished-at="2024-07-09T15:44:05 IST" duration-ms="5152">
-      <class name="HTTPRequests.GetRequests">
-        <test-method signature="getUsers()[pri:0, instance:HTTPRequests.GetRequests@7db12bb6]" started-at="2024-07-09T15:44:00 IST" name="getUsers" finished-at="2024-07-09T15:44:05 IST" duration-ms="5054" status="PASS">
+    <test started-at="2024-07-09T16:32:24 IST" name="Default test" finished-at="2024-07-09T16:32:33 IST" duration-ms="8318">
+      <class name="HTTPRequests.PostRequest">
+        <test-method signature="createUser()[pri:0, instance:HTTPRequests.PostRequest@7db12bb6]" started-at="2024-07-09T16:32:25 IST" name="createUser" finished-at="2024-07-09T16:32:33 IST" duration-ms="8208" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getUsers -->
-      </class> <!-- HTTPRequests.GetRequests -->
+        </test-method> <!-- createUser -->
+      </class> <!-- HTTPRequests.PostRequest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
