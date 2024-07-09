@@ -1,10 +1,10 @@
-1.	RestAssured is an API/Library through which we can automate RESTAPI’s.
-2.	Pre-requisite
+# 1.	RestAssured is an API/Library through which we can automate RESTAPI’s.
+# 2.	Pre-requisite
   a.	Java 9 + Eclipse
   b.	TestNG
   c.	Maven
 
-3.	Dependencies
+# 3.	Dependencies
   https://github.com/rest-assured/rest-assured/wiki/GettingStarted
   a.	REST Assured
   b.	JsonPath
@@ -15,14 +15,14 @@
   g.	XmlPath Schema Validation
   h.	JSON Schema Validation
 
-4.	Http Requests
+# 4.	Http Requests
   a.	Get
   b.	Post
   c.	Put
   d.	Patch
   e.	Delete
 
-5.	Gherkin Lang: By default Rest Assured support BDD style
+# 5.	Gherkin Lang: By default Rest Assured support BDD style
   a.	given ()
       Content-type, set-cookies, add auth, add param, set headers info etc..... 
   
